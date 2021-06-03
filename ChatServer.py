@@ -1,4 +1,4 @@
-from socket import *                                              #importação de todas as funções de 'socket'
+from socket import *                                              #import de todas as funções de 'socket'
 
 c_server = "127.0.0.1"                                            #desta forma, servidor é a própria maquina que está executando (localhost)
 c_door = 43210
