@@ -1,4 +1,4 @@
-from socket import *                                          #importação de todas as funções de 'socket'
+from socket import *                                          #import de todas as funções de 'socket'
 
 c_server = "127.0.0.1"                                        #o mesmo localhost, caso não fosse local é possível definir o IP de servido externo
 c_door = 43210                                                #NECESSÁRIO que seja a mesma porta do servidor
